@@ -13,7 +13,7 @@ source /path/to/new/virtual/environment/bin/activate
 
 Instale as dependências com ``deploy/requeriments.txt``:
 ```bash
-pip install requeriments.txt
+pip install deploy/requeriments.txt
 ```
 
 Adicione o ambiente virtual ao "kerneis" do Jupyter Notebook (Jupyter Lab):
